@@ -1,0 +1,14 @@
+body {
+    display: grid;
+    height: 100vh;
+    background: #eda;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grid {
+    width: 500px;
+    height: 500px;
+    background: #ebde49;
+    display: grid;
+    place-content: center;
+}
